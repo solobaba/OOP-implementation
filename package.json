@@ -1,0 +1,19 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "Object Oriented",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "OOP",
+    "Javascript"
+  ],
+  "author": "Solomon Oduniyi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
